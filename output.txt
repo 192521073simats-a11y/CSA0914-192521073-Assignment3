@@ -1,0 +1,9 @@
+$ javac CO3Main.java
+$ java CO3Main
+Withdrawal successful: Rs.1200
+Remaining balance: Rs.3800
+ATM error: Insufficient balance
+ATM transaction finished.
+Seats sold (3 seats available): 3
+Producer-consumer total: 15
+Processed result total: 265
